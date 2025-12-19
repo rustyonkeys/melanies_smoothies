@@ -1,3 +1,5 @@
 # requirements.txt
 - snowflake-snowpart-python
 - streamlit
+name: app_environment
+
