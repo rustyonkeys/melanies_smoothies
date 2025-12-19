@@ -1,11 +1,3 @@
 # requirements.txt
 - snowflake-snowpart-python
 - streamlit
-name: app_environment
-channels:
-  - snowflake
-dependencies:
-
-  - snowflake-snowpark-python=
-  - streamlit=
-
